@@ -1,4 +1,4 @@
-require_relative './my_enumerable.rb'
+require_relative './my_enumerable'
 
 class MyList
   include MyEnumerable
@@ -12,12 +12,12 @@ class MyList
   end
 end
 
-numbers = MyList.new(1,2,3,4)
+numbers = MyList.new(1, 2, 3, 4)
 # ALL
-puts numbers.all? {|e| e < 5} # True
-puts numbers.all? {|e| e > 5} # False
+puts(numbers.all? { |e| e < 5 }) # True
+puts(numbers.all? { |e| e > 5 }) # False
 # ANY
-puts numbers.any? {|e| e == 2} # True
-puts numbers.any? {|e| e == 5} # False
+puts(numbers.any? { |e| e == 2 }) # True
+puts(numbers.any? { |e| e == 5 }) # False
 # FILTER
-print numbers.filter {|e| e.even?} # [2, 4]
+print numbers.filter(&:even?) # [2, 4]

@@ -20,5 +20,4 @@ module MyEnumerable
     end
     new_list
   end
-
 end
