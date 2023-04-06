@@ -39,8 +39,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Create module**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -49,8 +47,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -58,8 +54,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Clone the repository by clicking on the 'Code' button and copy the link
 
 To get a local copy up and running, follow these steps.
 
@@ -119,9 +113,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **N/A**
+- [x] **Create more functions for the module**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,8 +131,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, please start it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -149,7 +139,7 @@ If you like this project, please start it!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank the Microverse team.
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
